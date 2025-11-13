@@ -1,4 +1,4 @@
-# 🧠 Python Student Achievement Analysis  
+# Python Student Achievement Analysis  
 
 ### Overview  
 This project analyzes patterns in student achievement using Python.  
