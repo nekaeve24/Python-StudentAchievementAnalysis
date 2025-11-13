@@ -1,0 +1,721 @@
+Student Number,Score,Subject,Passed
+303000105,4,Biology,Yes
+301001086,4,Biology,Yes
+306001140,2,Biology,No
+303000119,2,Biology,No
+303000023,4,Biology,Yes
+301001329,3,Biology,Yes
+301001089,1,Biology,No
+301001093,2,Biology,No
+303000132,3,Biology,Yes
+142021427,3,Biology,Yes
+301001053,2,Biology,No
+401000071,2,Biology,No
+301001371,2,Biology,No
+301001066,2,Biology,No
+301001067,4,Biology,Yes
+301001068,4,Biology,Yes
+401000072,2,Biology,No
+303000151,3,Biology,Yes
+301001309,3,Biology,Yes
+303000108,2,Biology,No
+301001140,2,Biology,No
+301001155,1,Biology,No
+301200011,2,Biology,No
+205004575,3,Biology,Yes
+214848822,3,Biology,Yes
+203694971,5,Biology,Yes
+203694989,4,Biology,Yes
+208208967,3,Biology,Yes
+274765734,2,Biology,No
+204772024,3,Biology,Yes
+207903279,2,Biology,No
+205808363,3,Biology,Yes
+206165508,2,Biology,No
+203061916,4,Biology,Yes
+205041064,3,Biology,Yes
+204287536,2,Biology,No
+206737116,3,Biology,Yes
+219344512,2,Biology,No
+225942358,2,Biology,No
+203372628,2,Biology,No
+219263258,2,Biology,No
+204964423,2,Biology,No
+206404378,4,Biology,Yes
+203923982,2,Biology,No
+204811632,2,Biology,No
+219498292,2,Biology,No
+203871470,3,Biology,Yes
+204148613,2,Biology,No
+209778539,3,Biology,Yes
+219498318,3,Biology,Yes
+205214851,2,Biology,No
+274858554,2,Biology,No
+204737043,2,Biology,No
+204453609,3,Biology,Yes
+205192396,3,Biology,Yes
+204303044,2,Biology,No
+207323221,3,Biology,Yes
+203252622,2,Biology,No
+206025421,3,Biology,Yes
+201827722,3,Biology,Yes
+205192131,2,Biology,No
+401000104,1,Calc AB,No
+303000110,1,Calc AB,No
+301001044,1,Calc AB,No
+301001130,2,Calc AB,No
+303000119,1,Calc AB,No
+301001329,3,Calc AB,Yes
+301001006,4,Calc AB,Yes
+302001072,3,Calc AB,Yes
+301200010,1,Calc AB,No
+301001091,1,Calc AB,No
+301001092,1,Calc AB,No
+401000101,3,Calc AB,Yes
+301001093,1,Calc AB,No
+303000131,1,Calc AB,No
+142021427,1,Calc AB,No
+301001053,2,Calc AB,No
+301001371,4,Calc AB,Yes
+301001162,2,Calc AB,No
+303000157,1,Calc AB,No
+303000108,4,Calc AB,Yes
+303000163,1,Calc AB,No
+270307333,4,Calc AB,Yes
+274999861,5,Calc AB,Yes
+275078996,5,Calc AB,Yes
+203394838,5,Calc AB,Yes
+200318384,4,Calc AB,Yes
+203305891,4,Calc AB,Yes
+200052033,5,Calc AB,Yes
+204909022,5,Calc AB,Yes
+209471101,3,Calc AB,Yes
+217156264,4,Calc AB,Yes
+202996872,3,Calc AB,Yes
+205727332,1,Calc AB,No
+303000105,5,Calc BC,Yes
+301001086,5,Calc BC,Yes
+303000116,2,Calc BC,No
+303000117,1,Calc BC,No
+303000023,5,Calc BC,Yes
+303000132,3,Calc BC,Yes
+303000133,3,Calc BC,Yes
+401000071,3,Calc BC,Yes
+301001058,2,Calc BC,No
+301001368,4,Calc BC,Yes
+301001142,3,Calc BC,Yes
+301001066,1,Calc BC,No
+301001067,5,Calc BC,Yes
+301001068,5,Calc BC,Yes
+303000145,3,Calc BC,Yes
+301001108,4,Calc BC,Yes
+401000072,1,Calc BC,No
+301001076,1,Calc BC,No
+303000151,2,Calc BC,No
+301001309,3,Calc BC,Yes
+303000156,3,Calc BC,Yes
+303000165,3,Calc BC,Yes
+301200011,3,Calc BC,Yes
+306001101,3,Calc BC,Yes
+401000007,3,Chemistry,Yes
+700000005,3,Chemistry,Yes
+401000012,2,Chemistry,No
+401000102,1,Chemistry,No
+301001369,2,Chemistry,No
+401000031,2,Chemistry,No
+306001287,1,Chemistry,No
+401000034,3,Chemistry,Yes
+401000039,2,Chemistry,No
+301001154,3,Chemistry,Yes
+401000041,3,Chemistry,Yes
+401000042,2,Chemistry,No
+401000045,2,Chemistry,No
+700000041,3,Chemistry,Yes
+401000049,3,Chemistry,Yes
+301001138,2,Chemistry,No
+301001350,1,Chemistry,No
+401000050,2,Chemistry,No
+700000058,2,Chemistry,No
+303000105,4,Computer Science A,Yes
+301001086,4,Computer Science A,Yes
+303000023,5,Computer Science A,Yes
+401000101,3,Computer Science A,Yes
+303000132,3,Computer Science A,Yes
+401000071,4,Computer Science A,Yes
+301001058,4,Computer Science A,Yes
+301001368,4,Computer Science A,Yes
+301001142,3,Computer Science A,Yes
+301001067,4,Computer Science A,Yes
+301001068,5,Computer Science A,Yes
+303000145,4,Computer Science A,Yes
+303000151,4,Computer Science A,Yes
+306001101,4,Computer Science A,Yes
+303000023,5,English Lang and Composition,Yes
+204010599,2,English Lang and Composition,No
+270485832,3,English Lang and Composition,Yes
+270081946,2,English Lang and Composition,No
+275078996,4,English Lang and Composition,Yes
+275078293,2,English Lang and Composition,No
+270039415,2,English Lang and Composition,No
+215509670,2,English Lang and Composition,No
+203089842,4,English Lang and Composition,Yes
+274080092,2,English Lang and Composition,No
+201823614,2,English Lang and Composition,No
+200051324,4,English Lang and Composition,Yes
+206026312,2,English Lang and Composition,No
+203371976,4,English Lang and Composition,Yes
+303000105,4,English Lit and Composition,Yes
+301001086,5,English Lit and Composition,Yes
+303000116,3,English Lit and Composition,Yes
+301001329,4,English Lit and Composition,Yes
+302001072,3,English Lit and Composition,Yes
+303000131,2,English Lit and Composition,No
+303000132,3,English Lit and Composition,Yes
+301001053,3,English Lit and Composition,Yes
+401000071,3,English Lit and Composition,Yes
+301001058,3,English Lit and Composition,Yes
+301001368,2,English Lit and Composition,No
+301001142,2,English Lit and Composition,No
+301001066,3,English Lit and Composition,Yes
+301001067,4,English Lit and Composition,Yes
+301001068,5,English Lit and Composition,Yes
+303000145,3,English Lit and Composition,Yes
+401000072,3,English Lit and Composition,Yes
+303000151,3,English Lit and Composition,Yes
+301001309,5,English Lit and Composition,Yes
+303000108,2,English Lit and Composition,No
+301200011,3,English Lit and Composition,Yes
+306001101,3,English Lit and Composition,Yes
+700000001,5,English Lit and Composition,Yes
+401000005,4,English Lit and Composition,Yes
+401000007,4,English Lit and Composition,Yes
+306001104,5,English Lit and Composition,Yes
+401000012,3,English Lit and Composition,Yes
+401000016,5,English Lit and Composition,Yes
+401000102,2,English Lit and Composition,No
+401000024,3,English Lit and Composition,Yes
+301001369,2,English Lit and Composition,No
+401000031,3,English Lit and Composition,Yes
+401000033,2,English Lit and Composition,No
+401000034,2,English Lit and Composition,No
+401000039,3,English Lit and Composition,Yes
+301001154,3,English Lit and Composition,Yes
+401000041,3,English Lit and Composition,Yes
+401000043,3,English Lit and Composition,Yes
+700000041,3,English Lit and Composition,Yes
+700000043,3,English Lit and Composition,Yes
+401000049,3,English Lit and Composition,Yes
+401000060,3,English Lit and Composition,Yes
+401000063,4,English Lit and Composition,Yes
+700000005,4,English Lit and Composition,Yes
+270307333,2,Environmental Science,No
+204010599,2,Environmental Science,No
+204845895,2,Environmental Science,No
+202660890,1,Environmental Science,No
+274443480,1,Environmental Science,No
+202934311,1,Environmental Science,No
+275131837,1,Environmental Science,No
+203305891,3,Environmental Science,Yes
+200052033,2,Environmental Science,No
+201823614,1,Environmental Science,No
+204909022,4,Environmental Science,Yes
+203371976,2,Environmental Science,No
+274863513,2,Environmental Science,No
+216224865,2,Environmental Science,No
+205727332,1,Environmental Science,No
+207774696,2,Environmental Science,No
+204118467,1,US Gov and Politics,No
+200273258,3,US Gov and Politics,Yes
+270485832,3,US Gov and Politics,Yes
+270081946,3,US Gov and Politics,Yes
+275078996,4,US Gov and Politics,Yes
+216224824,3,US Gov and Politics,Yes
+275078293,2,US Gov and Politics,No
+215509670,3,US Gov and Politics,Yes
+200318384,2,US Gov and Politics,No
+202918827,3,US Gov and Politics,Yes
+270307572,3,US Gov and Politics,Yes
+274080092,1,US Gov and Politics,No
+200051324,4,US Gov and Politics,Yes
+206165276,2,US Gov and Politics,No
+204909022,4,US Gov and Politics,Yes
+204936744,1,US Gov and Politics,No
+275279198,3,US Gov and Politics,Yes
+205810427,3,US Gov and Politics,Yes
+274863513,3,US Gov and Politics,Yes
+202996872,3,US Gov and Politics,Yes
+306001140,2,US History,No
+301001044,2,US History,No
+303000116,2,US History,No
+303000117,2,US History,No
+301001089,1,US History,No
+301200010,3,US History,Yes
+301001091,3,US History,Yes
+301001092,2,US History,No
+301001093,4,US History,Yes
+303000131,4,US History,Yes
+142021427,4,US History,Yes
+301001053,4,US History,Yes
+303000142,4,US History,Yes
+301001058,5,US History,Yes
+301001368,5,US History,Yes
+301001142,3,US History,Yes
+301001066,3,US History,Yes
+401000072,4,US History,Yes
+301001309,4,US History,Yes
+303000156,2,US History,No
+303000157,3,US History,Yes
+303000108,3,US History,Yes
+301001140,4,US History,Yes
+301200011,5,US History,Yes
+306001101,5,US History,Yes
+205461395,2,US History,No
+204006076,1,US History,No
+205004575,2,US History,No
+204407365,2,US History,No
+204329361,2,US History,No
+214848822,3,US History,Yes
+204843601,2,US History,No
+203694971,4,US History,Yes
+203694989,4,US History,Yes
+203571559,1,US History,No
+206397622,1,US History,No
+214892051,2,US History,No
+204373591,1,US History,No
+205909583,2,US History,No
+208208967,5,US History,Yes
+204964902,1,US History,No
+274765734,2,US History,No
+268864865,1,US History,No
+204772024,4,US History,Yes
+207903279,2,US History,No
+205808363,2,US History,No
+206165508,1,US History,No
+205056336,3,US History,Yes
+203061916,4,US History,Yes
+205376163,3,US History,Yes
+206441545,1,US History,No
+205192107,3,US History,Yes
+205041064,3,US History,Yes
+207907494,3,US History,Yes
+204287536,1,US History,No
+206737116,3,US History,Yes
+204111702,2,US History,No
+206344277,2,US History,No
+205174782,3,US History,Yes
+225942358,3,US History,Yes
+219263258,4,US History,Yes
+206404378,3,US History,Yes
+274307347,2,US History,No
+205948284,1,US History,No
+209444785,2,US History,No
+206578197,1,US History,No
+204657266,2,US History,No
+270039183,2,US History,No
+219343712,2,US History,No
+206110421,2,US History,No
+203923982,2,US History,No
+203871470,3,US History,Yes
+204148613,2,US History,No
+209778539,2,US History,No
+219498318,2,US History,No
+205214851,1,US History,No
+205593676,3,US History,Yes
+274858554,3,US History,Yes
+204258966,3,US History,Yes
+275049849,1,US History,No
+207323221,2,US History,No
+206025421,3,US History,Yes
+205929656,2,US History,No
+201827722,4,US History,Yes
+301001259,3,World History,Yes
+301001262,3,World History,Yes
+301001265,3,World History,Yes
+301001198,2,World History,No
+301001344,5,World History,Yes
+303001210,5,World History,Yes
+303001004,2,World History,No
+306001155,3,World History,Yes
+305001462,3,World History,Yes
+700000026,2,World History,No
+301001208,2,World History,No
+301001281,2,World History,No
+303001002,3,World History,Yes
+306001136,3,World History,Yes
+301001284,3,World History,Yes
+306001126,2,World History,No
+301001215,2,World History,No
+301001372,5,World History,Yes
+301001290,3,World History,Yes
+301001293,2,World History,No
+301001219,3,World History,Yes
+301001296,2,World History,No
+8268663994,2,World History,No
+301001226,3,World History,Yes
+301001227,3,World History,Yes
+301001300,3,World History,Yes
+301001305,1,World History,No
+301001307,3,World History,Yes
+301001308,3,World History,Yes
+301001240,2,World History,No
+301001244,1,World History,No
+301001311,3,World History,Yes
+305001329,3,World History,Yes
+301001432,3,World History,Yes
+301001250,3,World History,Yes
+301001251,4,World History,Yes
+301001253,3,World History,Yes
+306001122,3,World History,Yes
+301001257,3,World History,Yes
+301001324,2,World History,No
+301001327,2,World History,No
+306001132,3,World History,Yes
+209472695,3,World History,Yes
+209371715,2,World History,No
+206661027,2,World History,No
+205771157,4,World History,Yes
+206707564,3,World History,Yes
+204405351,1,World History,No
+206706483,3,World History,Yes
+206252132,2,World History,No
+205075369,2,World History,No
+207274473,2,World History,No
+204899629,1,World History,No
+204808745,1,World History,No
+207396946,2,World History,No
+207928268,3,World History,Yes
+206320202,3,World History,Yes
+203108428,2,World History,No
+205166911,1,World History,No
+205284250,1,World History,No
+208044636,2,World History,No
+206976425,2,World History,No
+206687774,2,World History,No
+206635062,2,World History,No
+205707052,4,World History,Yes
+220033542,2,World History,No
+208702977,3,World History,Yes
+206535304,1,World History,No
+205490840,4,World History,Yes
+209554005,1,World History,No
+208115246,4,World History,Yes
+208192104,1,World History,No
+206660961,3,World History,Yes
+204813539,2,World History,No
+206605677,1,World History,No
+206661092,1,World History,No
+208080606,3,World History,Yes
+206765570,2,World History,No
+204453781,1,World History,No
+203923867,1,World History,No
+206406126,3,World History,Yes
+215898867,2,World History,No
+206560302,3,World History,Yes
+270630593,1,World History,No
+207472770,2,World History,No
+206320681,2,World History,No
+204228225,4,World History,Yes
+205707094,1,World History,No
+219758430,3,World History,Yes
+205763048,1,World History,No
+206424665,4,World History,Yes
+204169650,4,World History,Yes
+206314502,2,World History,No
+204778518,2,World History,No
+206830523,2,World History,No
+209376276,2,World History,No
+221282155,3,World History,Yes
+206364572,1,World History,No
+203755657,2,World History,No
+208044743,3,World History,Yes
+206316473,2,World History,No
+207460700,2,World History,No
+206579286,2,World History,No
+206987935,2,World History,No
+206283707,4,World History,Yes
+206811192,3,World History,Yes
+206534661,2,World History,No
+203733670,2,World History,No
+206320210,3,World History,Yes
+205432461,2,World History,No
+205413693,2,World History,No
+206577041,1,World History,No
+204207054,3,World History,Yes
+204872006,3,World History,Yes
+220253769,2,World History,No
+219670783,3,World History,Yes
+220253777,3,World History,Yes
+219846581,4,World History,Yes
+205905441,3,World History,Yes
+209983188,2,World History,No
+220253785,2,World History,No
+206576910,3,World History,Yes
+206605719,3,World History,Yes
+206576837,2,World History,No
+206578999,2,World History,No
+206707168,2,World History,No
+205365364,2,World History,No
+270307333,1,Biology,No
+274999861,2,Biology,No
+200273258,1,Biology,No
+204845895,1,Biology,No
+203931415,2,Biology,No
+270485832,2,Biology,No
+270081946,2,Biology,No
+275078996,3,Biology,Yes
+203394838,2,Biology,No
+275078293,2,Biology,No
+270039415,1,Biology,No
+203089842,2,Biology,No
+203305891,2,Biology,No
+200051324,2,Biology,No
+206026312,2,Biology,No
+204909022,3,Biology,Yes
+205192396,3,Biology,Yes
+275279198,2,Biology,No
+205810427,2,Biology,No
+203023718,2,Biology,No
+217156264,2,Biology,No
+202996872,2,Biology,No
+205727332,2,Biology,No
+207774696,2,Biology,No
+215509670,2,Biology,No
+303000105,5,English Lang and Composition,Yes
+301001086,4,English Lang and Composition,Yes
+303000108,3,English Lang and Composition,Yes
+303000116,3,English Lang and Composition,Yes
+301001329,3,English Lang and Composition,Yes
+302001072,3,English Lang and Composition,Yes
+303000131,2,English Lang and Composition,No
+303000132,4,English Lang and Composition,Yes
+301001053,3,English Lang and Composition,Yes
+401000071,3,English Lang and Composition,Yes
+301001058,4,English Lang and Composition,Yes
+301001368,2,English Lang and Composition,No
+301001142,2,English Lang and Composition,No
+301001066,2,English Lang and Composition,No
+301001067,4,English Lang and Composition,Yes
+401000072,3,English Lang and Composition,Yes
+301001309,3,English Lang and Composition,Yes
+301200011,4,English Lang and Composition,Yes
+306001101,3,English Lang and Composition,Yes
+301001068,5,English Lang and Composition,Yes
+303000145,4,English Lang and Composition,Yes
+204118467,2,US History,No
+270307333,3,US History,Yes
+204010599,2,US History,No
+274999861,2,US History,No
+204845895,2,US History,No
+270485832,2,US History,No
+270081946,2,US History,No
+275078996,4,US History,Yes
+204528475,2,US History,No
+202660890,1,US History,No
+274443480,1,US History,No
+273740647,2,US History,No
+203394838,2,US History,No
+202934311,1,US History,No
+216224824,3,US History,Yes
+275078293,1,US History,No
+270039415,2,US History,No
+268258852,3,US History,Yes
+200318384,3,US History,Yes
+275131837,2,US History,No
+203089842,3,US History,Yes
+203305891,3,US History,Yes
+202918827,3,US History,Yes
+270307572,4,US History,Yes
+274080092,2,US History,No
+201823614,1,US History,No
+208225839,2,US History,No
+200051324,5,US History,Yes
+206026312,2,US History,No
+204909022,3,US History,Yes
+203371976,2,US History,No
+205192396,2,US History,No
+275279198,4,US History,Yes
+205810427,3,US History,Yes
+274561943,2,US History,No
+209471101,2,US History,No
+203023718,4,US History,Yes
+217156264,1,US History,No
+274863513,3,US History,Yes
+202996872,2,US History,No
+205727332,3,US History,Yes
+207774696,2,US History,No
+215509670,3,US History,Yes
+206165276,2,US History,No
+271100018,1,US History,No
+305001360,3,World History,Yes
+700000001,4,World History,Yes
+205174782,3,World History,Yes
+401000016,4,World History,Yes
+206404378,3,World History,Yes
+401000024,2,World History,No
+700000023,2,World History,No
+401000031,2,World History,No
+401000033,3,World History,Yes
+305001370,2,World History,No
+401000039,3,World History,Yes
+301001154,3,World History,Yes
+401000043,3,World History,Yes
+219498318,1,World History,No
+205593676,1,World History,No
+274858554,1,World History,No
+700000043,3,World History,Yes
+401000048,2,World History,No
+401000049,4,World History,Yes
+204258966,3,World History,Yes
+302001007,3,World History,Yes
+302001008,3,World History,Yes
+201827722,3,World History,Yes
+401000063,4,World History,Yes
+205461395,2,World History,No
+204006076,1,World History,No
+205004575,4,World History,Yes
+204611578,2,World History,No
+204407365,1,World History,No
+204329361,3,World History,Yes
+214848822,3,World History,Yes
+204843601,3,World History,Yes
+204899629,2,World History,No
+203694971,4,World History,Yes
+203694989,4,World History,Yes
+203571559,2,World History,No
+214892051,3,World History,Yes
+204373591,1,World History,No
+205909583,3,World History,Yes
+208208967,3,World History,Yes
+204964902,2,World History,No
+274765734,2,World History,No
+268864865,2,World History,No
+204772024,4,World History,Yes
+207903279,3,World History,Yes
+205808363,3,World History,Yes
+206165508,1,World History,No
+205056336,3,World History,Yes
+203061916,3,World History,Yes
+205376163,3,World History,Yes
+206441545,2,World History,No
+205192107,3,World History,Yes
+205041064,2,World History,No
+207907494,3,World History,Yes
+204287536,2,World History,No
+205904881,3,World History,Yes
+204111702,2,World History,No
+206737116,4,World History,Yes
+206344277,2,World History,No
+206316473,1,World History,No
+303000116,1,World History,No
+301001089,1,World History,No
+301001092,1,World History,No
+303000131,1,World History,No
+142021427,1,World History,No
+303000142,1,World History,No
+301001371,1,World History,No
+301001155,1,World History,No
+306001140,2,World History,No
+303000119,2,World History,No
+301200010,2,World History,No
+301001091,2,World History,No
+302001001,2,World History,No
+301001053,2,World History,No
+301001058,2,World History,No
+301001368,2,World History,No
+301001142,2,World History,No
+301001066,2,World History,No
+303000145,2,World History,No
+301001108,2,World History,No
+303000151,2,World History,No
+303000108,2,World History,No
+301001140,2,World History,No
+301200011,2,World History,No
+303000105,3,World History,Yes
+301001329,3,World History,Yes
+301001093,3,World History,Yes
+303000132,3,World History,Yes
+401000071,3,World History,Yes
+301001067,3,World History,Yes
+301001068,3,World History,Yes
+301001076,3,World History,Yes
+306001101,3,World History,Yes
+301001086,4,World History,Yes
+301001309,4,World History,Yes
+209778539,3,Biology,Yes
+219498318,3,Biology,Yes
+205214851,2,Biology,No
+274858554,2,Biology,No
+204737043,2,Biology,No
+204453609,3,Biology,Yes
+205192396,3,Biology,Yes
+204303044,2,Biology,No
+207323221,3,Biology,Yes
+203252622,2,Biology,No
+303000119,2,World History,No
+301200010,2,World History,No
+301001091,2,World History,No
+302001001,2,World History,No
+301001053,2,World History,No
+301001058,2,World History,No
+301001368,2,World History,No
+301001142,2,World History,No
+301001066,2,World History,No
+303000145,2,World History,No
+301001108,2,World History,No
+303000151,2,World History,No
+303000108,2,World History,No
+301001140,2,World History,No
+202996872,2,US History,No
+205727332,3,US History,Yes
+207774696,2,US History,No
+215509670,3,US History,Yes
+206165276,2,US History,No
+271100018,1,US History,No
+305001360,3,World History,Yes
+700000001,4,World History,Yes
+205174782,3,World History,Yes
+401000016,4,World History,Yes
+206404378,3,World History,Yes
+401000024,2,World History,No
+700000023,2,World History,No
+401000031,2,World History,No
+401000043,3,English Lit and Composition,Yes
+700000041,3,English Lit and Composition,Yes
+700000043,3,English Lit and Composition,Yes
+401000049,3,English Lit and Composition,Yes
+401000060,3,English Lit and Composition,Yes
+401000063,4,English Lit and Composition,Yes
+700000005,4,English Lit and Composition,Yes
+270307333,2,Environmental Science,No
+204010599,2,Environmental Science,No
+204845895,2,Environmental Science,No
+202660890,1,Environmental Science,No
+274443480,1,Environmental Science,No
+202934311,1,Environmental Science,No
+275131837,1,Environmental Science,No
+203305891,3,Environmental Science,Yes
+200052033,2,Environmental Science,No
+201823614,1,Environmental Science,No
+204909022,4,Environmental Science,Yes
+205174782,3,US History,Yes
+225942358,3,US History,Yes
+219263258,4,US History,Yes
+206404378,3,US History,Yes
+274307347,2,US History,No
+205948284,1,US History,No
+209444785,2,US History,No
+206578197,1,US History,No
+204657266,2,US History,No
+270039183,2,US History,No
+219343712,2,US History,No
+206110421,2,US History,No
+203923982,2,US History,No
+203871470,3,US History,Yes
+204148613,2,US History,No
+209778539,2,US History,No
+219498318,2,US History,No
+205214851,1,US History,No
+205593676,3,US History,Yes
+274858554,3,US History,Yes
+204258966,3,US History,Yes
+275049849,1,US History,No
