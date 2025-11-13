@@ -31,8 +31,8 @@ The analysis was conducted using Python libraries such as **pandas** for data cl
 ---
 
 ## 📂 Files
-📄 [Download Report (.pdf)](./Everett_N_Python_Student_Achievement_Analysis.pdf)  
-📊 [Dataset (.csv)](./Everett_N_Python_Student_Achievement_Analysis.csv)
+📄 [Download Report (.pdf)](https://github.com/nekaeve24/Python-StudentAchievementAnalysis/blob/main/Everett_N_Python_Student_Achievement_Analysis.pdf)  
+📊 [Dataset (.csv)](https://github.com/nekaeve24/Python-StudentAchievementAnalysis/blob/main/Everett_N_Python_Student_Achievement_Analysis.csv))
 
 ---
 
