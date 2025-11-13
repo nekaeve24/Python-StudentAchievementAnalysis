@@ -1,7 +1,7 @@
 # Python Student Achievement Analysis
 
-**Tools:** Python (pandas, matplotlib, seaborn)
-**Data:** Student achievement dataset (2018-2021)
+**Tools:** Python (pandas, matplotlib, seaborn)  
+**Data:** Student achievement dataset (2018-2021)  
 **Focus Areas:** Academic performance, attendance impact, and predictive insights
 
 ---
