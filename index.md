@@ -19,7 +19,7 @@ It explores relationships between attendance, assessment scores, and academic pe
 ---
 
 ## 📊 Preview
-(Add a screenshot of your visualization here — e.g., your .png or .jpg file)  
+![Python Student Achievement Dashboard](Python_StudentAchievement_Dashboard.png)
 
 ---
 
