@@ -20,6 +20,13 @@ It explores relationships between attendance, assessment scores, and academic pe
 
 ## 📊 Preview
 ![Python Student Achievement Dashboard](Python_StudentAchievement_Dashboard.png)
+*Figure 1: Python Student Achievement Dashboard visualizing attendance trends, average student performance by year, and the positive correlation between attendance and academic outcomes (2018-2022).*
+
+---
+
+## 📈 View the Full Notebook
+You can explore the complete code, data preparation, and analysis in the interactive Jupyter Notebook below:
+## ➡️ [**Open Python_StudentAchievement_Analysis.ipynb**](Python_StudentAchievement_Analysis.ipynb)
 
 ---
 
