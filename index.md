@@ -26,7 +26,7 @@ It explores relationships between attendance, assessment scores, and academic pe
 
 ## 📈 View the Full Notebook
 You can explore the complete code, data preparation, and analysis in the interactive Jupyter Notebook below:
-## [➡️ Open Python_StudentAchievement_Analysis.ipynb](Python_StudentAchievement_Analysis.ipynb)
+[➡️ Open Python_StudentAchievement_Analysis.ipynb](Python_StudentAchievement_Analysis.ipynb)
 
 ---
 
