@@ -46,5 +46,5 @@ This analysis demonstrates:
 
 ## ✉️ Contact
 Created by **Neka Everett**  
-📧 [Email](mailto:neka.everett@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/neka-e-a3443368/)  
 🔗 [Portfolio Home](https://nekaeve24.github.io/data-portfolio)
