@@ -36,4 +36,5 @@ It explores relationships between attendance, assessment scores, and academic pe
 ---
 
 **Created by:** Neka Everett  
-[📧 Email](mailto:neka.everett@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/) | [🌐 Portfolio Home](https://nekaeve24.github.io/)
+[💼 LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/)  
+[🌐 Portfolio Home](https://nekaeve24.github.io/)
