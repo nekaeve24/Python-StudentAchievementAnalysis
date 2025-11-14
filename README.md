@@ -24,7 +24,7 @@ It explores relationships between attendance, assessment scores, and academic pe
 ---
 
 ### Preview  
-![Python Student Achievement Dashboard]
+![Python Student Achievement Dashboard](Python_StudentAchievement_Dashboard.png)
 
 ---
 
